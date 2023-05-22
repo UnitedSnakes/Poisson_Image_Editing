@@ -1,2 +1,2 @@
 # Poisson_Image_Editing
-An implementation of a paper from '03 SIGGRAPH: Poisson Image Editing.
+Reproduced the interpolation algorithm in a paper from '03 SIGGRAPH: Poisson Image Editing.
